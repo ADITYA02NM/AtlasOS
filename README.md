@@ -1,4 +1,6 @@
 # AtlasOS
 Custom Operating System From Stratch
 
-Under development
+## Languages needed
+1) Assembly
+2) C (core)
